@@ -9,4 +9,4 @@ Starting template with:
 - `yarn dev` (View your Next app on web browser)
 
 ## Demo
-Demo is available [here](https://github.com/nhidev/scc-web.git).
+Demo is available [here](https://static-kweb.vercel.app).
